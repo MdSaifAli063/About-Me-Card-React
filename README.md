@@ -144,11 +144,13 @@ src/
 - 🎨 Prop-based theming (light, dark, glass, solid)
 - 📦 Export as npm package
 
-## Contributing
+## 🤝 Contributing
 
-Issues and PRs are welcome. Please:
-- Create an issue describing the change
-- Open a PR with a clear description and screenshots/gifs for UI changes
+💡 Have ideas or improvements?
+
+- Create an issue describing your change
+
+- Open a PR with screenshots or GIFs of updates
 
 ## License
 
