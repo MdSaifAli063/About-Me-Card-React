@@ -75,7 +75,7 @@ index.css
 
 ## 🧩 Usage
 
-1. Add the Card component file to your project, e.g.
+1. Add the Card component file to your project, e.g.<br>
    src/components/Card.jsx (or .tsx).
 3. Import and render it:
    ```jsx
@@ -89,14 +89,17 @@ index.css
    }
    ```
 
-## Customization
+## 🎛️ Customization
 
-- Avatar: Replace the img src with your image URL or local asset.
-- Text: Update title (“About Me”), bio, and highlights.
-- Tech stack: Modify the stack array inside the component.
-- Social links: Replace hrefs for GitHub, LinkedIn, and Email.
-- CTA: Change the href target (e.g., /contact) and label (“Join me!”).
-- Colors/Effects: Tweak Tailwind classes for gradients, shadows, rounded corners, and hover states.
+| Element             | How to Edit                                       |
+| ------------------- | ------------------------------------------------- |
+| 🧑 Avatar           | Replace `img src` with your image                 |
+| 📝 Text             | Update title, bio, highlights                     |
+| 💻 Tech Stack       | Modify stack array inside component               |
+| 🔗 Social Links     | Replace GitHub, LinkedIn, Email URLs              |
+| 🚀 CTA Button       | Change label and target href                      |
+| 🎨 Colors & Effects | Tweak Tailwind classes for gradients, hover, etc. |
+
 
 ## Example Props Variant (Optional)
 
