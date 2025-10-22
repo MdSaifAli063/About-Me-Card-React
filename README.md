@@ -56,15 +56,12 @@ Easily embed this component into your **portfolio** or **landing page**.
 - 📦 **npm**, **yarn**, or **pnpm**  
 - 🎨 **Tailwind CSS** configured  
 
-Tailwind setup (if you don’t have it yet):
-1. npm install -D tailwindcss postcss autoprefixer
-2. npx tailwindcss init -p
-3. In tailwind.config.js set content to scan your files:
-   content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"]
-4. In your src/index.css (or globals.css) add:
-   @tailwind base;
-   @tailwind components;
-   @tailwind utilities;
+### 📦 Tailwind Setup (if not yet installed)  
+```bash
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+tailwind.config.js
+```
 
 ## Usage
 
