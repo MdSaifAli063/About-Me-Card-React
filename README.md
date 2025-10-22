@@ -116,13 +116,15 @@ You can make the component reusable by passing props:
 - ⌨️ Keyboard-friendly focus rings
 - 🎨 High contrast in both light/dark themes
 
-## Scripts
+## 🧠 Scripts
 
-Common scripts in a React/Tailwind app:
-- npm run dev — start development server
-- npm run build — production build
-- npm run preview — preview production build
-- npm run lint — lint project (if configured)
+| Command           | Description                     |
+| ----------------- | ------------------------------- |
+| `npm run dev`     | Start dev server                |
+| `npm run build`   | Build for production            |
+| `npm run preview` | Preview production build        |
+| `npm run lint`    | Run lint checks (if configured) |
+
 
 ## Folder Structure (suggested)
 
