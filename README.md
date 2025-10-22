@@ -126,12 +126,16 @@ You can make the component reusable by passing props:
 | `npm run lint`    | Run lint checks (if configured) |
 
 
-## Folder Structure (suggested)
-
-- src/components/Card.jsx — main component
-- src/styles or src/index.css — Tailwind imports
-- public/ — static assets (optional)
-- README.md — this file
+📂 Folder Structure (Suggested)
+```pgsql
+src/
+ ├─ components/
+ │   └─ Card.jsx
+ ├─ styles/
+ │   └─ index.css
+ ├─ public/
+ └─ README.md
+```
 
 ## Roadmap
 
