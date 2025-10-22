@@ -25,18 +25,19 @@
 </p>
 
 ---
-## Preview
+## ✨ Preview  
 
-The card includes:
-- Gradient banner with ambient glow
-- Avatar, title, and concise “About Me” description
-- Tech stack chips
-- Highlights (experience, projects, remote-friendly)
-- Social icons (GitHub, LinkedIn, Email)
-- Primary CTA button: “Join me!”
+🪄 The card includes:  
+- 🌈 **Gradient banner** with ambient glow  
+- 👤 **Avatar**, name, and concise “About Me” text  
+- 💻 **Tech stack chips** with icons  
+- 📊 **Highlights** — experience, projects, and remote-friendly badge  
+- 🔗 **Social icons** (GitHub, LinkedIn, Email)  
+- 🚀 **Primary CTA button:** “Join me!”  
 
-You can easily embed the component on a landing page or portfolio.
+Easily embed this component into your **portfolio** or **landing page**.
 
+---
 ## Features
 
 - Modern, responsive UI with Tailwind CSS
