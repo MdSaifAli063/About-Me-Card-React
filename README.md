@@ -137,12 +137,12 @@ src/
  └─ README.md
 ```
 
-## Roadmap
+## 🧭 Roadmap
 
-- Add motion: smooth entrance animations (Framer Motion)
-- Add theme toggle switch
-- Add prop-based theming (light, dark, glass, solid)
-- Export as npm package
+- ✨ Add animations (Framer Motion)
+- 🌓 Add theme toggle switch
+- 🎨 Prop-based theming (light, dark, glass, solid)
+- 📦 Export as npm package
 
 ## Contributing
 
