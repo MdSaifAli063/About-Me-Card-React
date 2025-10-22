@@ -24,6 +24,10 @@
   </a>
 </p>
 
+<br>
+
+![image](https://github.com/MdSaifAli063/About-Me-Card-React/blob/9be848c3b44a6b076d5582e8b871195074ac903d/Screenshot%202025-10-23%20012107_edited.png)
+
 
 ## ✨ Preview  
 
