@@ -73,10 +73,12 @@ index.css
 ```
 
 
-## Usage
+## 🧩 Usage
 
-1. Add the Card component file to your project, e.g. src/components/Card.jsx (or .tsx).
-2. Import and render it:
+1. Add the Card component file to your project, e.g.
+   src/components/Card.jsx (or .tsx).
+3. Import and render it:
+   ```jsx
    import Card from '@/components/Card';
    export default function Home() {
      return (
@@ -85,6 +87,7 @@ index.css
        </main>
      );
    }
+   ```
 
 ## Customization
 
