@@ -155,9 +155,10 @@ src/
 ## 🪪 License
 MIT License — see LICENSE for details.
 
-## Credits
+## 🙌 Credits
 
-- Icons: inline SVGs from Heroicons
-- Badges: shields.io
-- UI framework: Tailwind CSS
-- React library: React
+- 🧩 Icons: Heroicons
+- 🛡️ Badges: shields.io
+- 🎨 UI Framework: Tailwind CSS
+- ⚛️ Library: React
+
