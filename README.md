@@ -48,14 +48,13 @@ Easily embed this component into your **portfolio** or **landing page**.
 
 ---
 
-## Getting Started
 
-Prerequisites:
-- Node.js 16+ and a package manager (npm, yarn, or pnpm)
-- Tailwind CSS configured in your project
+## 🛠️ Getting Started  
 
-Install dependencies (example using npm):
-- If this is part of an existing React/Tailwind app, you may already have everything set up.
+### 🧩 Prerequisites  
+- 🧠 **Node.js 16+**  
+- 📦 **npm**, **yarn**, or **pnpm**  
+- 🎨 **Tailwind CSS** configured  
 
 Tailwind setup (if you don’t have it yet):
 1. npm install -D tailwindcss postcss autoprefixer
