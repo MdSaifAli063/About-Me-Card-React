@@ -152,9 +152,8 @@ src/
 
 - Open a PR with screenshots or GIFs of updates
 
-## License
-
-MIT License. See LICENSE for details.
+## 🪪 License
+MIT License — see LICENSE for details.
 
 ## Credits
 
