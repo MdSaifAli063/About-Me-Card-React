@@ -60,8 +60,12 @@ Easily embed this component into your **portfolio** or **landing page**.
 ```bash
 npm install -D tailwindcss postcss autoprefixer
 npx tailwindcss init -p
-tailwind.config.js
 ```
+tailwind.config.js
+```js
+content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"]
+```
+
 
 ## Usage
 
