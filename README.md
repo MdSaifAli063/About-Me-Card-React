@@ -110,11 +110,11 @@ You can make the component reusable by passing props:
 - stats: { value: string; label: string }[]
 - links: { github?: string; linkedin?: string; email?: string; cta?: { href: string; label: string } }
 
-## Accessibility
+## ♿ Accessibility
 
-- Social buttons include aria-labels.
-- Focus-visible rings for keyboard users.
-- Sufficient contrast in both light and dark themes (adjust if you change colors).
+- 🔊 Social icons include aria-labels
+- ⌨️ Keyboard-friendly focus rings
+- 🎨 High contrast in both light/dark themes
 
 ## Scripts
 
