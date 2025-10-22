@@ -24,7 +24,7 @@
   </a>
 </p>
 
----
+
 ## ✨ Preview  
 
 🪄 The card includes:  
@@ -37,7 +37,7 @@
 
 Easily embed this component into your **portfolio** or **landing page**.
 
----
+
 ## ⚡ Features  
 
 - 🎨 Modern, responsive UI with **Tailwind CSS**  
@@ -45,8 +45,6 @@ Easily embed this component into your **portfolio** or **landing page**.
 - ♿ Accessible focus states & ARIA labels  
 - 🪶 Lightweight — no extra UI libraries  
 - 🧩 Easy customization for text, links, and colors  
-
----
 
 
 ## 🛠️ Getting Started  
