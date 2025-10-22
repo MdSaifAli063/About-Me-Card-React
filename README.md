@@ -26,7 +26,7 @@
 
 <br>
 
-![image](https://github.com/MdSaifAli063/About-Me-Card-React/blob/9be848c3b44a6b076d5582e8b871195074ac903d/Screenshot%202025-10-23%20012107_edited.png)
+![image](https://github.com/MdSaifAli063/About-Me-Card-React/blob/e1b8cbe73576af262beadab6d81168bb9d2b650f/Screenshot%202025-10-23%20012644_edited.png)
 
 
 ## ✨ Preview  
