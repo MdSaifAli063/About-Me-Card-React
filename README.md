@@ -101,7 +101,7 @@ index.css
 | 🎨 Colors & Effects | Tweak Tailwind classes for gradients, hover, etc. |
 
 
-## Example Props Variant (Optional)
+## ⚙️ Example Props Variant
 
 You can make the component reusable by passing props:
 - name, title, bio
