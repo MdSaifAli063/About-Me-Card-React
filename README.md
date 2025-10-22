@@ -38,13 +38,15 @@
 Easily embed this component into your **portfolio** or **landing page**.
 
 ---
-## Features
+## ⚡ Features  
 
-- Modern, responsive UI with Tailwind CSS
-- Dark mode friendly
-- Accessible focus states and aria labels
-- Lightweight, no extra UI libraries required
-- Easy customization for links, avatar, copy, and colors
+- 🎨 Modern, responsive UI with **Tailwind CSS**  
+- 🌓 Dark-mode friendly  
+- ♿ Accessible focus states & ARIA labels  
+- 🪶 Lightweight — no extra UI libraries  
+- 🧩 Easy customization for text, links, and colors  
+
+---
 
 ## Getting Started
 
