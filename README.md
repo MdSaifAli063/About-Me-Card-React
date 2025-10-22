@@ -1,14 +1,30 @@
-# About Me Card
+<h1 align="center">👨‍💻 About Me Card</h1>
 
-A sleek, responsive “About Me” card component built with React and Tailwind CSS. It showcases a developer profile, bio, tech stack, stats, social links, and a clear call‑to‑action: “Join me!”.
-
-<p align="left">
-  <a href="https://reactjs.org/" target="_blank"><img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" /></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind-0F172A?logo=tailwindcss&logoColor=38BDF8" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" /></a>
-  <a href="https://vercel.com/" target="_blank"><img alt="Deploy on Vercel" src="https://img.shields.io/badge/Deploy-Vercel-000?logo=vercel&logoColor=fff" /></a>
+<p align="center">
+  A sleek, responsive <b>“About Me”</b> card component built with <b>React</b> and <b>Tailwind CSS</b>.<br>
+  It showcases a developer profile, bio, tech stack, stats, social links, and a clear call-to-action: <b>“Join me!”</b> 🚀
 </p>
 
+<p align="center">
+  <!-- Tech Badges -->
+  <a href="https://reactjs.org/" target="_blank">
+    <img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind-0F172A?logo=tailwindcss&logoColor=38BDF8" />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" />
+  </a>
+  <a href="https://vercel.com/" target="_blank">
+    <img alt="Deploy on Vercel" src="https://img.shields.io/badge/Deploy-Vercel-000?logo=vercel&logoColor=fff" />
+  </a>
+  <a href="https://opensource.org/licenses/MIT" target="_blank">
+    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-green.svg" />
+  </a>
+</p>
+
+---
 ## Preview
 
 The card includes:
